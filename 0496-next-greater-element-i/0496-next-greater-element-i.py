@@ -1,25 +1,31 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         
+        hmap = {}
 
-        ans = []
-        loc = {}
+        st = []
+        st.append(nums2[0])
 
-        for i,num in enumerate(nums2):
-
-            loc[num] = i
-
-        for num in nums1:
-            flag = 0
-            for j in range(loc[num],len(nums2)):
-
-                if nums2[j]>num:
-                    ans.append(nums2[j])
-                    flag=1
-                    break
+        for i in range(1,len(nums2)):
+            val = nums2[i]
             
-            if flag==0:
-                ans.append(-1)
+            if st[-1]>val:
+                st.append(val)
+                continue
+            else:
+                while st and st[-1]<val:
+                    hmap[st[-1]] = val
+                    st.pop()
+                
+                st.append(val)
+        
+        if st:
+            while st:
+                hmap[st[-1]] = -1
+                st.pop()
+        print(hmap)
+        ans = []
+        for num in nums1:   
+            ans.append(hmap[num])
         
         return ans
-            

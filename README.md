@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
+## Counting
+|  |
+| ------- |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
+| [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Surya-PS03/Leetcode/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
+## Sorting
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->

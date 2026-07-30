@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Surya-PS03/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Surya-PS03/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
+| [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 ## Sorting
 |  |
 | ------- |
+| [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 ## Counting
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->

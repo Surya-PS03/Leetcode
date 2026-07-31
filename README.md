@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Surya-PS03/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Surya-PS03/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Binary Search
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Surya-PS03/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Surya-PS03/Leetcode/tree/master/0278-first-bad-version) |
+| [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Interactive
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
+| [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Counting
 |  |
 | ------- |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->

@@ -9,19 +9,15 @@ class Solution:
         # states i,j,turn
         N = len(nums)
         @cache
-        def solve(i,j,turn,total):
+        def solve(i,j):
 
-            if i>j:
-                return total
+            if i==j:
+                return nums[i]
 
-            if turn:
-                total = max(nums[i]+solve(i+1,j,0,total+nums[i]),
-                nums[j]+solve(i,j-1,0,total+nums[j]))
-            else:
-                total = min(-nums[i]+solve(i+1,j,1,total-nums[i]),
-                -nums[j]+solve(i,j-1,1,total-nums[j]))
+            left = nums[i]-solve(i+1,j)
+            right = nums[j]-solve(i,j-1)
             
 
-            return total
+            return max(left,right)
 
-        return True if solve(0,N-1,1,0)>=0 else False
+        return solve(0,N-1)>=0

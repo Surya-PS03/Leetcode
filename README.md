@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
 | [0813-largest-sum-of-averages](https://github.com/Surya-PS03/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Heap (Priority Queue)
@@ -140,4 +143,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

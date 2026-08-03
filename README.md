@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Surya-PS03/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Surya-PS03/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/Surya-PS03/Leetcode/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Surya-PS03/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Surya-PS03/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Surya-PS03/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/Surya-PS03/Leetcode/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |

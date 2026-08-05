@@ -30,6 +30,7 @@ class Solution:
                     distances[v] = dist
                     heapq.heappush(pq,(dist,v))
         
-        max_time = max(distances.values()) #important 
+         #important jis node pe sbse jyada time lagega to ushi ka time he minimum time hoga for all nodes to reach the signal and all signal travel parallely to every node
+        max_time = max(distances.values())
 
         return max_time if max_time!=float("inf") else -1

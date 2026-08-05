@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Bit Manipulation
 |  |
@@ -198,13 +199,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

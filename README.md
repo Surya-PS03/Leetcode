@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Surya-PS03/Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Surya-PS03/Leetcode/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/Surya-PS03/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1321-restaurant-growth](https://github.com/Surya-PS03/Leetcode/tree/master/1321-restaurant-growth) |
 ## Array
 |  |
 | ------- |

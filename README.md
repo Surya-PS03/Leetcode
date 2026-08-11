@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surya-PS03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -259,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Surya-PS03/Leetcode/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

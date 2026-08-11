@@ -14,8 +14,10 @@ class Solution:
         dp = [[[-1]*(n+1) for _ in range(m+1)] for _ in range(N)]
 
         def solve(i,m,n):
+            # only base case check for i==N no (m==0 or n==0)
             if i==N:
                 return 0
+                
             if dp[i][m][n]!=-1:
                 return dp[i][m][n]
 
@@ -24,6 +26,7 @@ class Solution:
             notPick = solve(i+1,m,n)
             pick = 0
 
+            # important to check
             if freq["0"]<=m and freq["1"]<=n:
                 pick = 1 + solve(i+1,m-freq["0"],n-freq["1"])
 

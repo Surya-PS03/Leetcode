@@ -1,7 +1,8 @@
 from collections import Counter
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
-        
+        """ Approach before looking at solution """
+
         # use i to iterate over the strs array
         # m,n reduce at every step by count[0] and count[1] respectively
         # pick and not pick dp (found from discussion section)
@@ -9,15 +10,22 @@ class Solution:
         # if m==0 and n==0 valid state return 1
         # if (m<0 and n>=0) or (m>=0 and n<0) violated condition return 0
 
+
+        """ Approach after looking the solution... """
         N = len(strs)
 
         dp = [[[-1]*(n+1) for _ in range(m+1)] for _ in range(N)]
+
+
+        # not return 0 when m==0 and n==0 because there might be strings like = "" they cost 0 m or n which also increase length but we cut short recursion by returning zero hence we should stop only on i==N
+
+        # we can use count tuple array for every iteration over string array strs and count 0's and 1's using .count() method instead of calling Counter from collections
 
         def solve(i,m,n):
             # only base case check for i==N no (m==0 or n==0)
             if i==N:
                 return 0
-                
+
             if dp[i][m][n]!=-1:
                 return dp[i][m][n]
 

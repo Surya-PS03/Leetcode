@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surya-PS03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
+| [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surya-PS03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Surya-PS03/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -266,8 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->

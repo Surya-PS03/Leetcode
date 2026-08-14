@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya-PS03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surya-PS03/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Surya-PS03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/Surya-PS03/Leetcode/tree/master/0813-largest-sum-of-averages) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surya-PS03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Surya-PS03/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Surya-PS03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Recursion
 |  |
 | ------- |

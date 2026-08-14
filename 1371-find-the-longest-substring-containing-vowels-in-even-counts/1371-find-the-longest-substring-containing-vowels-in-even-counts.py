@@ -1,22 +1,29 @@
 class Solution:
     def findTheLongestSubstring(self, s: str) -> int:
         
-        state = {"00000":-1}
+        mask = 0
+        state = {mask:-1}
         
         N = len(s)
-
-        stateList = {"a":0,"e":0,"i":0,"o":0,"u":0}
         res = 0
-        for i in range(N):
-            char = s[i]
+        for i,char in enumerate(s):
+            
+            if char=="a":
+                mask = mask ^(1<<0)
+            elif char=="e":
+                mask = mask ^ (1<<1)
+            elif char=="i":
+                mask = mask ^ (1<<2)
 
-            if char in stateList:
-                stateList[char] = (stateList[char]+1)%2
-                
-            st = "".join(str(v)for v in stateList.values())
+            elif char=="o":
+                mask = mask ^ (1<<3)
 
-            if  st not in state:
-                state[st] = i
+            elif char=="u":
+                mask = mask ^ (1<<4)
+            
+            if mask in state:
+                res = max(res,i-state[mask])
             else:
-                res = max(res, i-state[st])
+                state[mask] = i
+
         return res

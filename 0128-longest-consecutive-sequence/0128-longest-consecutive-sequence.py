@@ -1,18 +1,29 @@
 class Solution:
-    def longestConsecutive(self, nums: List[int]) -> int:
-        nums = sorted(nums)
-        count=1
+    def longestConsecutive(self, nums: List[int]) -> int:      
+        dumy = nums.copy()
+
+        dumy = set(dumy)
         res = 1
-        N = len(nums)
+
+        N = len(dumy)
+
         if N==0:
             return 0
-        for j in range(1,N):
 
-            if nums[j]-nums[j-1]==1:
-                count+=1
-            elif nums[j]-nums[j-1]==0:
+        for num in dumy:
+            
+            count = 1
+            if num-1 in dumy:
                 continue
-            else:
-                res = max(count,res)
-                count = 1
-        return max(count,res)
+            
+            x = num
+
+            while x+1 in dumy:
+                count+=1
+                x+=1
+
+            res = max(res,count)
+            
+
+
+        return res 

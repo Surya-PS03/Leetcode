@@ -8,20 +8,13 @@ class Solution:
         N = len(matrix)
         
         for i in range(N):
-            for j in range(i+1):
-
-                if i==j:
-                    continue
-                
+            for j in range(i):
                 matrix[i][j],matrix[j][i] = matrix[j][i],matrix[i][j]
         
-        print(matrix)
         # reverse all rows
 
         for i in range(N):
-
             for j in range(N//2):
-
                 matrix[i][N-j-1],matrix[i][j] = matrix[i][j],matrix[i][N-j-1]
         
         

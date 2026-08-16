@@ -1,30 +1,30 @@
+from collections import defaultdict
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-         
-        #  prefix sum + hashmap
-        #   p[j]-p[i-1] = k
-        #   p[j]-k = p[i-1]
 
-        # pefix Sum
-        
         N = len(nums)
-        p = [0]*N
-        p[0] = nums[0]
+        j = 0
+        hmap = defaultdict(int)
+        
+        prefix = [0]*N
+        prefix[0] = nums[0]
 
+
+        # if subarray begins at index 0
+        hmap[0]=1
+        
         for i in range(1,N):
-            p[i] = p[i-1]+nums[i]
-        
-        hmap = {0:1}
+            prefix[i] = prefix[i-1]+nums[i]
+
         count = 0
+        while j<N:
+
+            if prefix[j]-k in hmap:
+                count += hmap[prefix[j]-k]
+            
+            hmap[prefix[j]]+=1
         
-        for j in range(N):
-
-            if p[j]-k in hmap:
-                count+=hmap[p[j]-k]
-
-            if p[j] not in hmap:
-                hmap[p[j]]=1
-            else:
-                hmap[p[j]]+=1
-
+            j+=1
+        
         return count
+

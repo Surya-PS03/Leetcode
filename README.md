@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Surya-PS03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya-PS03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Surya-PS03/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2029-stone-game-ix](https://github.com/Surya-PS03/Leetcode/tree/master/2029-stone-game-ix) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Surya-PS03/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Surya-PS03/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Surya-PS03/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Surya-PS03/Leetcode/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Surya-PS03/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surya-PS03/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Surya-PS03/Leetcode/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2029-stone-game-ix](https://github.com/Surya-PS03/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sorting
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya-PS03/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |

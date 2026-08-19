@@ -2,31 +2,36 @@ from collections import defaultdict
 class Solution:
     def maxNumberOfFamilies(self, n: int, reservedSeats: List[List[int]]) -> int:
         
-        occupied = defaultdict(set)
+        occupied = defaultdict(int)
 
         for row,seat in reservedSeats:
-            occupied[row].add(seat)
+            occupied[row] = occupied[row] | (1<<seat)
 
-        row_occ = len(occupied)
+        # block masks
 
-        block1 = set((2,3,4,5))
-        block2 = set((4,5,6,7))
-        block3 = set((6,7,8,9))
-        
-        count = (n-row_occ)*2
-        for row in occupied.keys():
-            occ = occupied[row]
-            if len(block1-occ)==len(block1):
-                occ = occ | block1
-                count+=1
+        # block1
+        block1 = (1<<2) | (1<<3) | (1<<4) | (1<<5)
+        # block2
+        block2 = (1<<4) | (1<<5) | (1<<6) | (1<<7)
+        # block3
+        block3 = (1<<6) | (1<<7) | (1<<8) | (1<<9)
+
+        count = (n-len(occupied))*2
+
+
+        for row,mask in occupied.items():
+
+            if mask&block1==0:
+                mask = mask | block1
+                count += 1
             
-            if len(block2-occ)==len(block2):
-                occ = occ|block2
-                count+=1
+            if mask&block2==0:
+                mask = mask | block2
+                count += 1
+
+            if mask&block3==0:
+                mask = mask | block3
+                count += 1
             
-            if len(block3-occ)==len(block3):
-                occ =  occ | block3
-                count+=1
 
         return count
-

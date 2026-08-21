@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Surya-PS03/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Surya-PS03/Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Surya-PS03/Leetcode/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/Surya-PS03/Leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Surya-PS03/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Surya-PS03/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1321-restaurant-growth](https://github.com/Surya-PS03/Leetcode/tree/master/1321-restaurant-growth) |

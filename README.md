@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Surya-PS03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Surya-PS03/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

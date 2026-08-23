@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Surya-PS03/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Surya-PS03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Surya-PS03/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
+| [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surya-PS03/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surya-PS03/Leetcode/tree/master/1406-stone-game-iii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Surya-PS03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/Surya-PS03/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya-PS03/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surya-PS03/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surya-PS03/Leetcode/tree/master/1406-stone-game-iii) |
@@ -373,8 +377,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Surya-PS03/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->

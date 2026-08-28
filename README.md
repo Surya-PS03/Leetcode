@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Surya-PS03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Surya-PS03/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2029-stone-game-ix](https://github.com/Surya-PS03/Leetcode/tree/master/2029-stone-game-ix) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Surya-PS03/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
 ## Memoization
 |  |

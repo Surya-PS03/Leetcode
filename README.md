@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surya-PS03/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Surya-PS03/Leetcode/tree/master/3731-find-missing-elements) |
 | [3979-maximum-valid-pair-sum](https://github.com/Surya-PS03/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Surya-PS03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0813-largest-sum-of-averages](https://github.com/Surya-PS03/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Surya-PS03/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Queue
 |  |
 | ------- |
@@ -431,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Surya-PS03/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->

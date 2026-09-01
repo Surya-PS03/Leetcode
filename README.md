@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Surya-PS03/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Surya-PS03/Leetcode/tree/master/1148-article-views-i) |
 | [1321-restaurant-growth](https://github.com/Surya-PS03/Leetcode/tree/master/1321-restaurant-growth) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Surya-PS03/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Surya-PS03/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Surya-PS03/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array

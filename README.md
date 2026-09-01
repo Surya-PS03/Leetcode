@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Surya-PS03/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Surya-PS03/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Surya-PS03/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/Surya-PS03/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Surya-PS03/Leetcode/tree/master/1148-article-views-i) |
 | [1321-restaurant-growth](https://github.com/Surya-PS03/Leetcode/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Surya-PS03/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Surya-PS03/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Surya-PS03/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3979-maximum-valid-pair-sum](https://github.com/Surya-PS03/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Surya-PS03/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3903-smallest-stable-index-i](https://github.com/Surya-PS03/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String
 |  |

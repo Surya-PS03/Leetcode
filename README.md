@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Surya-PS03/Leetcode/tree/master/0441-arranging-coins) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [3613-minimize-maximum-component-cost](https://github.com/Surya-PS03/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Interactive
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3613-minimize-maximum-component-cost](https://github.com/Surya-PS03/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3731-find-missing-elements](https://github.com/Surya-PS03/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Surya-PS03/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3613-minimize-maximum-component-cost](https://github.com/Surya-PS03/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Shortest Path
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Surya-PS03/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3613-minimize-maximum-component-cost](https://github.com/Surya-PS03/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

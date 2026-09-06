@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Surya-PS03/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Surya-PS03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Surya-PS03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Surya-PS03/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Surya-PS03/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Surya-PS03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |

@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Surya-PS03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Surya-PS03/Leetcode/tree/master/0740-delete-and-earn) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Surya-PS03/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Surya-PS03/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/Surya-PS03/Leetcode/tree/master/0441-arranging-coins) |
 | [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Bit Manipulation

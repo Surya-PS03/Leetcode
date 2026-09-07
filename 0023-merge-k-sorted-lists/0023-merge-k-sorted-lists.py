@@ -18,6 +18,10 @@ class Solution:
         head = ListNode(0)
         p = head
 
+        # idx refers to kth list 
+        # we used i order to maintain order of insertion after values found same insert from first to n-1th list
+
+
         while heap:
            
             x, idx ,node = heapq.heappop(heap)

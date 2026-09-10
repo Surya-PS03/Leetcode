@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -514,10 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimum Spanning Tree
 |  |
 | ------- |

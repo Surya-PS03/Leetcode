@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Surya-PS03/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Surya-PS03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Surya-PS03/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Surya-PS03/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Surya-PS03/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/Surya-PS03/Leetcode/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Surya-PS03/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |

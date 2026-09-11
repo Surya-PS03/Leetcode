@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Surya-PS03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Surya-PS03/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Surya-PS03/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya-PS03/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surya-PS03/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Surya-PS03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Surya-PS03/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Surya-PS03/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3597-partition-string](https://github.com/Surya-PS03/Leetcode/tree/master/3597-partition-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surya-PS03/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Surya-PS03/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Surya-PS03/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Surya-PS03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3979-maximum-valid-pair-sum](https://github.com/Surya-PS03/Leetcode/tree/master/3979-maximum-valid-pair-sum) |
 ## Nim Game
 |  |

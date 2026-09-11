@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Surya-PS03/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -523,11 +524,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimum Spanning Tree
 |  |
@@ -553,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Surya-PS03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

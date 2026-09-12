@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Surya-PS03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Surya-PS03/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Surya-PS03/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Surya-PS03/Leetcode/tree/master/0441-arranging-coins) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3613-minimize-maximum-component-cost](https://github.com/Surya-PS03/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Interactive
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3613-minimize-maximum-component-cost](https://github.com/Surya-PS03/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3731-find-missing-elements](https://github.com/Surya-PS03/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting

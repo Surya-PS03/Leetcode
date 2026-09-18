@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Surya-PS03/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surya-PS03/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surya-PS03/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/Surya-PS03/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surya-PS03/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2029-stone-game-ix](https://github.com/Surya-PS03/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Surya-PS03/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Surya-PS03/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Surya-PS03/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surya-PS03/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Surya-PS03/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Surya-PS03/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surya-PS03/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Surya-PS03/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surya-PS03/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

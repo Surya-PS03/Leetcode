@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Surya-PS03/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Surya-PS03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Surya-PS03/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Surya-PS03/Leetcode/tree/master/3597-partition-string) |
 ## Divide and Conquer
 |  |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Surya-PS03/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Surya-PS03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Surya-PS03/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/Surya-PS03/Leetcode/tree/master/3597-partition-string) |
 ## Backtracking
 |  |

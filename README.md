@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Surya-PS03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [3597-partition-string](https://github.com/Surya-PS03/Leetcode/tree/master/3597-partition-string) |
 ## Simulation
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Surya-PS03/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Surya-PS03/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -508,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/Surya-PS03/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 ## Design

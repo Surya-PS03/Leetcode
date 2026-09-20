@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Surya-PS03/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0229-majority-element-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Surya-PS03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Surya-PS03/Leetcode/tree/master/0322-coin-change) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Surya-PS03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Surya-PS03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [3597-partition-string](https://github.com/Surya-PS03/Leetcode/tree/master/3597-partition-string) |
 ## Simulation
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/Surya-PS03/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Surya-PS03/Leetcode/tree/master/0464-can-i-win) |
 ## Design
@@ -589,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Surya-PS03/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Surya-PS03/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Surya-PS03/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Surya-PS03/Leetcode/tree/master/0078-subsets) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Surya-PS03/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Surya-PS03/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -613,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Surya-PS03/Leetcode/tree/master/0139-word-break) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

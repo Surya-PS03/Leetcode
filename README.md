@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Surya-PS03/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Surya-PS03/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Surya-PS03/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Surya-PS03/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya-PS03/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Surya-PS03/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Surya-PS03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Surya-PS03/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Surya-PS03/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Surya-PS03/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Surya-PS03/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Surya-PS03/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |

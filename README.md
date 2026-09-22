@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Surya-PS03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/Surya-PS03/Leetcode/tree/master/0743-network-delay-time) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -567,12 +568,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Surya-PS03/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimum Spanning Tree
 |  |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -619,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Surya-PS03/Leetcode/tree/master/0056-merge-intervals) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

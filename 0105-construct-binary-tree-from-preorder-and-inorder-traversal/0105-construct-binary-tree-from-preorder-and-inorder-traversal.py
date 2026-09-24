@@ -8,25 +8,28 @@ class Solution:
     def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
         
         inorder_index = {val:i for i,val in enumerate(inorder)}
-        N = len(preorder)
+
         idx = 0
 
         def buildTree(left,right):
 
             nonlocal idx
 
-            if left > right:
-                return None
-            
+            if left>right:
+                return
+
             rootVal = preorder[idx]
             idx+=1
+
             root = TreeNode(rootVal)
+
             mid = inorder_index[rootVal]
 
             root.left = buildTree(left,mid-1)
             root.right = buildTree(mid+1,right)
 
             return root
-
+        
+        N = len(preorder)
         return buildTree(0,N-1)
             

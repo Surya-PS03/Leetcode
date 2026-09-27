@@ -14,8 +14,7 @@ class Solution:
                 
                 st.pop()
 
-                for char in sample:
-                    st.append(char)
+                st.extend(sample)
             
             else:
                 st.append(s[i])

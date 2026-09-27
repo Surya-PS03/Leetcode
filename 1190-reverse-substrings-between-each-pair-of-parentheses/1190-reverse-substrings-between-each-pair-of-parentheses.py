@@ -7,11 +7,10 @@ class Solution:
         for i in range(N):
 
             if s[i] == ")":
-                sample = ""
+                sample = []
                 
                 while st[-1] != "(":
-                    char = st.pop()
-                    sample += char
+                    sample.append(st.pop())
                 
                 st.pop()
 

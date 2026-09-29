@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Surya-PS03/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Surya-PS03/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Surya-PS03/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surya-PS03/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surya-PS03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Surya-PS03/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2054-two-best-non-overlapping-events](https://github.com/Surya-PS03/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Surya-PS03/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Surya-PS03/Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2719-count-of-integers](https://github.com/Surya-PS03/Leetcode/tree/master/2719-count-of-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Surya-PS03/Leetcode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Surya-PS03/Leetcode/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Surya-PS03/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Surya-PS03/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Surya-PS03/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -670,4 +673,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Surya-PS03/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Surya-PS03/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Surya-PS03/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Surya-PS03/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Surya-PS03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Surya-PS03/Leetcode/tree/master/0134-gas-station) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surya-PS03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Surya-PS03/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Surya-PS03/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Surya-PS03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Surya-PS03/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Surya-PS03/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Surya-PS03/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Surya-PS03/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Surya-PS03/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/Surya-PS03/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Surya-PS03/Leetcode/tree/master/0079-word-search) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Surya-PS03/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Surya-PS03/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Surya-PS03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Surya-PS03/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Surya-PS03/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Surya-PS03/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Surya-PS03/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/Surya-PS03/Leetcode/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0931-minimum-falling-path-sum) |

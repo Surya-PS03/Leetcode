@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Surya-PS03/Leetcode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Surya-PS03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Surya-PS03/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Surya-PS03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Surya-PS03/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Surya-PS03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Surya-PS03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Surya-PS03/Leetcode/tree/master/0072-edit-distance) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Surya-PS03/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Surya-PS03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Surya-PS03/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Surya-PS03/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Surya-PS03/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Surya-PS03/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Surya-PS03/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

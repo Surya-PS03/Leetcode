@@ -5,7 +5,7 @@ class Solution:
             if br == "(":
                 stack.append(br)
             elif stack:
-                if br==")" and stack[-1]=="(":
+                if stack[-1]=="(":
                     stack.pop()
                 else:
                     stack.append(br)
